@@ -34,3 +34,5 @@ This project bridges data engineering and environmental analytics by capturing r
 * **Peak Pollution by City:** Sorted column ranking identifying regional health hotspots.
 * **Environmental Factor Split:** Dual-metric bar chart evaluating underlying temperature and humidity weather drivers.
 * **Geospatial Hotspots Map:** Spatial visualization with dynamic bubble sizes scaled to active pollutant levels.
+
+* > 📖 **Detailed Technical Guide:** For full Python code walkthroughs, SQL analytical queries, and Power BI DAX debugging steps, check out the separate [DOCUMENTATION.md](DOCUMENTATION.md) file.
