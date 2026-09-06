@@ -1,4 +1,4 @@
---Average pm2_5 by city
+--1Average pm2_5 by city
 SELECT city, ROUND(AVG(pm2_5), 2) AS avg_pm25
 FROM clean_air_weather
 GROUP BY city
